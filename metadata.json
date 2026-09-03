@@ -1,0 +1,8 @@
+{
+  "name": "Remix Smart Item List",
+  "description": "An intelligent cabinetry order form and item list manager featuring AI-powered cabinetry notation organization (Base, Wall, Tall, Fillers, Panels & vice versa), electronic signatures, and export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
